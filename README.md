@@ -1,1 +1,1 @@
-![projects](./assets/screenshots/projects.png)
+![projects](./assets/screenshots/logo.png)
