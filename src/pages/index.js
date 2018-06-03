@@ -19,22 +19,20 @@ export default () => (
 					damping: 20,
 				}}
       >
-        <h1 className={styles.title}>About</h1>
+        <h1 className={styles.title}>Twenius</h1>
       </FadeIn>
       <FadeIn>
         <div className={styles.contentContainer}>
           <p>
-						Vibert Thio is digging into cutting-edge tech, and transforming it into the energy
-						of creating his art pieces in several new forms.
-          </p>
-          <p>
-						Thio is studying in National Taiwan University(NTU), majoring in Electrical Engineering.
-          </p>
-          <p>
-						Mostly, he makes audio/visual art by using Processing(Java),
-            C++ and Javascript. He is currently working on research of
-            machine learning in music
-            and web audio visual experiemts.
+          (used to love her)<br/>
+          她來自紐約 但我們在台北遇見<br/>
+          人生地不熟 她的聲音我在無意中聽見<br/>
+          她說英文我說中文儘管有語言的隔閡<br/>
+          在那一刻我感覺到我們的靈魂交合<br/>
+          沒有辦法解釋 到底是為什麼<br/>
+          心跳加速我只想大聲的說 就是妳了<br/>
+          這個看似草率而意外的選擇<br/>
+          想不到 跑不掉 丟不下又捨不得<br/>
           </p>
         </div>
       </FadeIn>
